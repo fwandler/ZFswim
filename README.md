@@ -11,4 +11,4 @@ An example script to run the simulation is included here as `example_run.py`. Si
 The file `analysis_functions.py` includes our methods for calculating frequency, amplitude and phase from a completed simulation. This can be imported for your own analysis, or it can be called using `python3 analysis/analysis.py -f {filename}` to calculate and print out the average frequency, amplitude, left-right phase differences and intersegmental phase differences for the simulation output stored at `filename`.
 
 ### References
-\[1\] Wandler F David, Lemberger Benjamin K, McLean David L, Murray James M (2025) **Coordinated spinal locomotor network dynamics emerge from cell-type-specific connectivity patterns.** *eLife* 14:RP106658 [https://elifesciences.org/articles/106658]
+\[1\] Wandler F David, Lemberger Benjamin K, McLean David L, Murray James M (2025) **Coordinated spinal locomotor network dynamics emerge from cell-type-specific connectivity patterns.** *eLife* 14:RP106658 [https://doi.org/10.7554/eLife.106658.3]
